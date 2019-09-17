@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+ <title>Page Title</title>
+ 
+ <style>
+    body {background-color: powderblue;}
+    h1 {color: softyellow;}
+    p {color: softpink;}
+  </style>
+</head>  
+
+<body>
+
+<h1>What is Patapouf?<h1>
+<p>PataPouf is a brand created by two tenagers who are trying to create their look on fashion<p>
+
+<img src="https://i.pinimg.com/originals/62/78/d0/6278d0c8807216230a029e683c2bcb21.jpg>
