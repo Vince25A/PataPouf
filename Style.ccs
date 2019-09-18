@@ -1,3 +1,7 @@
+
+
 p{
-color:soft 
+color:softpink; 
+font-size:25px; 
+font-family:italic
 }
