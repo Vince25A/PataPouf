@@ -1,7 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
 
-
-p{
-color:softpink; 
-font-size:25px; 
-font-family:italic
-}
+ <style>
+    body {background-color: #c0fff4;}
+    h1 {color: #cfa6ff;}
+    p {color: #ffc0cb;}
+  </style>
+</head>
+</html>
