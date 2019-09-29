@@ -1,7 +1,9 @@
 header {
 
 	margin:auto;
-	<div style="background-color:#f7c297;color:white;padding:20px;">
+	background-color:#f7c297;
+	color:white;
+	padding:20px;
     background-position: center;
     background-size:cover;
 	
