@@ -1,57 +1,47 @@
 header {
-
 }
 
 body {
-  
   margin:0;
   padding:0;
     background-color: #ffecb8;
 }
 
 .nav{
-  
-  background-color:#ff707e;
-  color:#3f6b61;
-  list-style:none;
-  text-align: right;
-  padding: 20px 0 20px 0;
+   background-color:#ff707e;
+    color:#3f6b61;
+     list-style:none;
+      text-align: right;
+       padding: 20px 0 20px 0;
 }
+
 .nav > li {
-  
-  display:inline-block;
-  padding-right: 50px;
+   display:inline-block;
+    padding-right: 50px;
 }
 
 .nav > li > a{
-  
   text-decoration: none;
-  color:#3f6b61
-  
-  
+   color:#3f6b61
 }
+
 .nav > li > a:hover{
-  
-  color:#E5ACB6
-  
+   color:#E5ACB6
 }
 
 .logo{
   color:#000000;
-  float:left;
-  padding-left:25px;
-  font-size:16px;
-  font-weight:bold;
+   float:left;
+    padding-left:25px;
+     font-size:16px;
+      font-weight:bold;
   
   
   
   
 }
+h1   {color: #f0b0dd;
+}
 
-
-
-
-h1   {color: #f0b0dd;}
-
-
-p    {color: #3f6b61;}
+p    {color: #3f6b61;
+}
