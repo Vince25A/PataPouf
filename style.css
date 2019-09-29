@@ -42,9 +42,15 @@ body {
   
   width:100%;
   display:block;
-    
-  
 }
+
+.banner> banner-image{
+  width:100%;
+  display:block;
+   
+}
+
+
 h1{
   color: #f0b0dd;
    text-align:center;
