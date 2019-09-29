@@ -44,7 +44,7 @@ body {
   display:block;
 }
 
-.banner> banner-image{
+.banner> .banner-image{
   width:100%;
   display:block;
    
