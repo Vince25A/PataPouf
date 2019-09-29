@@ -40,8 +40,12 @@ body {
   
   
 }
-h1   {color: #f0b0dd;
+h1{
+  color: #f0b0dd;
+   text-align:center;
 }
 
-p    {color: #3f6b61;
+p{
+  color: #3f6b61;
+   text-align:center;
 }
