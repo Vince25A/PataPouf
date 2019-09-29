@@ -1,12 +1,25 @@
 header {
 
-
-
-
 }
 
-body {background-color: #ffecb8;}
+body {
+  
+  margin:0;
+  padding:0;
+    background-color: #ffecb8;
+}
 
+nav.{
+  
+  background-color:#ffecb8;
+  color:#3f6b61;
+  list-style:none;
+  text-align:centre;
+  
+  
+  
+  
+}
 
 h1   {color: #f0b0dd;}
 
