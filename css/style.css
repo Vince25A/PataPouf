@@ -15,12 +15,15 @@ nav.{
   color:#3f6b61;
   list-style:none;
   text-align:centre;
+  padding:20px 0 20px 0;
+}
+.nav > li {
   
-  
+  display:inline-block;
+  padding-right: 50px;
   
   
 }
-
 h1   {color: #f0b0dd;}
 
 
