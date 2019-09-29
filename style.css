@@ -32,7 +32,7 @@ body {
 .logo{
   color:#f0b0dd;
    float:left;
-    padding:20px 0 20px 0;
+    padding-left:25px;
      font-size:20px;
       font-weight:bold;
        font-family:Monospace;
