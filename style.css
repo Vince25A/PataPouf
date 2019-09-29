@@ -36,8 +36,13 @@ body {
      font-size:20px;
       font-weight:bold;
        font-family:Monospace;
+}
+
+.banner{
   
-  
+  width:100%;
+  display:block;
+    
   
 }
 h1{
@@ -49,3 +54,5 @@ p{
   color: #3f6b61;
    text-align:center;
 }
+
+
