@@ -50,11 +50,13 @@ display: block;
 h1{
   color: #f0b0dd;
    text-align:center;
+    font-familiy:Monospace;
 }
 
 p{
   color: #3f6b61;
    text-align:center;
+    font-familiy:Monospace;
 }
 
 
