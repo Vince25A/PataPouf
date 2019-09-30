@@ -6,7 +6,11 @@ body {
   padding:0;
     background-color: #ffecb8;
 }
-
+.img {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .nav{
    background-color:#ff707e;
     color:#3f6b61;
