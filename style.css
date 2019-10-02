@@ -48,10 +48,10 @@ display: block;
   width:400px;
    height:400px;
     margin:100px auto;
-     float:left;
+     left:10;
       background-color:#3f6b61;
        padding-left:40px;
-      
+        position:absolute;
   
 }  
 
