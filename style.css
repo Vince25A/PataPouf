@@ -48,7 +48,7 @@ display: block;
   width:400px;
    height:400px;
     margin:100px auto;
-     position:left;
+     float:left;
       background-color:#3f6b61;
       
   
