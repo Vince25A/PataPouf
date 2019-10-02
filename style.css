@@ -47,10 +47,11 @@ display: block;
 .container1{
   width:400px;
    height:400px;
-    margin:100px auto;
+  
      left:10;
       background-color:#3f6b61;
        position:relative;
+        padding-left:25px;
   
 }  
 
