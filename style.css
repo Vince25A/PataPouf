@@ -52,7 +52,7 @@ display: block;
      float:left;
       background-color:#f7c297;
        position:relative;
- {       
+}    
 .flex{
   display : flex;
    justify-content : center;
