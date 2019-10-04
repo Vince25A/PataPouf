@@ -53,7 +53,7 @@ display: block;
       background-color:#f7c297;
        position:relative;
         
-.flex2 {
+.flex2{
   display : flex;
    justify-content : center;
     align-items : flex-start;
