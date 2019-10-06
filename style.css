@@ -4,7 +4,7 @@ header {
 body {
   margin:0;
   padding:0;
-    background-color: #ffecb8;
+    background-color:#ab93c9;
 }
 img {
 display: block;
@@ -15,7 +15,7 @@ display: block;
   
 }
 .nav{
-   background-color:#ff707e;
+   background-color:#eda1ab;
     color:#3f6b61;
      list-style:none;
       text-align: right;
