@@ -47,7 +47,7 @@ display: block;
 
 .container1{
   width:400px;
-   height:400px;
+   height:600px;
     margin-left:6%;
      float:left;
       background-color:#ffbea3;
@@ -55,7 +55,7 @@ display: block;
 }    
 .container2{
   width:400px;
-   height:400px;
+   height:600px;
     margin-right:6%;
       float:right;
   background-color:#ffbea3;
