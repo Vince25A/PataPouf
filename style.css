@@ -53,7 +53,15 @@ display: block;
       background-color:#ffbea3;
        position:relative;
 }    
-.flex{
+.container2{
+  width:400px;
+   height:400px;
+    margin-left:4%;
+     
+      background-color:#ffbea3;
+       position:relative;
+}
+  .flex{
   display : flex;
    justify-content : center;
     align-items : flex-start;
