@@ -57,14 +57,13 @@ display: block;
   width:400px;
    height:400px;
     margin-left:4%;
-     
-      background-color:#ffbea3;
-       position:relative;
+     background-color:#ffbea3;
+      position:relative;
 }
   .flex{
-  display : flex;
-   justify-content : center;
-    align-items : flex-start;
+  display:flex;
+   justify-content:center;
+    align-items:flex-start;
 }
 .about {
    margin : 50px 70px;
