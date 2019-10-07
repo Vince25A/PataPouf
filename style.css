@@ -48,9 +48,9 @@ display: block;
 .container1{
   width:400px;
    height:400px;
-    margin-left:10;
+    margin-left:10%;
      float:left;
-      background-color:#f7c297;
+      background-color:#ffbea3;
        position:relative;
 }    
 .flex{
