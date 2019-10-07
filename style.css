@@ -46,7 +46,7 @@ display: block;
 }
 
 .container1{
-  width:400px;
+  width:500px;
    height:600px;
     margin-left:6%;
      float:left;
@@ -54,7 +54,7 @@ display: block;
        position:relative;
 }    
 .container2{
-  width:400px;
+  width:500px;
    height:600px;
     margin-right:6%;
       float:right;
